@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## **Wirtschaftlicher Nutzen des Bitcoin-Minings für die Stadt Bamberg**
 
-You can use the [editor on GitHub](https://github.com/bambergbitcoin/proposal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### **ABSTRAKT**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Viele internationale Städte befinden sich an einem entscheidenden Punkt in der Geschichte. Die globale Wirtschaft ist da und Städte konkurrieren um Talente, Jobs und Gelder. Stadtbeamte sind stark auf die Fähigkeiten der Einwohner angewiesen, um eine lokale Wirtschaft zu unterstützen. Stadtführer finden sich zwischen privaten Unternehmen wieder, die eine Gemeinde verlassen und lokale Arbeitsplätze mitnehmen, und Einwohnern, die Geld aus der Stadt abziehen, anstatt sie wieder aufzufüllen. Kurz gesagt, Gemeindebeamte müssen mit Wirtschaftsführern verhandeln, Talente importieren und die Vermögenswerte, Infrastruktur und Mittel der Stadt effektiv verwalten, um eine florierende lokale Wirtschaft zu erreichen. Arbeitsplätze, die nicht ersetzt werden, belasten die Stadt und ihre Fähigkeit, in einer wettbewerbsorientierten europäischen und globalen Gemeinschaft relevant zu bleiben. Der Zweck dieses Vorschlags ist es, einen Plan für Bamberg bereitzustellen, um seiner bereits vielfältigen lokalen Wirtschaft eine neue Wirtschaft hinzuzufügen. Durch die Demonstration der Vorteile des Aufbaus und der Nutzung von Energie, die für Bamberg einzigartig sind, können Aktionsprogramme von der Stadt umgesetzt werden, um Energie durch das Schürfen von Bitcoin in Geldwert umzuwandeln, um eine zusätzliche Wirtschaft für die Stadt zu schaffen.
 
-### Markdown
+Stichworte: `Harvesting`, `Renewable`, `Energy`, `Energy/Value Conversion`, `Bitcoin`, `Wertaufbewahrungsmittel`, `Mining`, `New Economy`, `Stadtfonds`, `Bamberg`.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### **EINLEITUNG**
 
-```markdown
-Syntax highlighted code block
+Wie die Wirtschaften der Vergangenheit, die die Nutzung von Mühlen und den Transport des Werts von Holz (Ressourcen) durch die Flüsse beinhalteten, kann eine neue Wirtschaft für Oberfranken mit erneuerbarer Energie geschmiedet werden, die die kinetische Energie der Flüsse in gespeicherte Werte und Einsparungen für die Stadt umwandelt . Diese Mittel können dann als Einnahmequelle und Wertaufbewahrungsmittel für Bamberg genutzt werden. 
 
-# Header 1
-## Header 2
-### Header 3
+### **GOLDFLIEßENDER FLUSS**
 
-- Bulleted
-- List
+Wie die Wirtschaften der Vergangenheit mit der Nutzung von Mühlen und dem Transport des Werts von Holz (Ressourcen) durch die Flüsse, kann eine neue Wirtschaft für Oberfranken mit erneuerbarer Energie geschmiedet werden, die die kinetische Energie der Flüsse in gespeicherte Werte und Einsparungen für die Stadt umwandelt . Diese Mittel können dann als Einnahmequelle und Wertaufbewahrungsmittel für Bamberg genutzt werden. 
 
-1. Numbered
-2. List
+Aus der Regnitz, der Itz und dem Main lässt sich eine Fülle von Energie schöpfen. Investitionen mit der richtigen Infrastruktur und Strategie können diese Energie einfangen und in Reichtum für die Kassen der Stadt verwandeln; Die zugeführte kinetische Energie von Regnitz und Itz kann mit einer höheren Rate erfasst werden als die des Mains. Der Wert kann jedoch geografisch mit Input/Output erfasst werden. Bamberg liegt in einzigartiger Lage an einem strategischen Punkt in der europäischen Wasserscheide [(1)](https://en.wikipedia.org/wiki/European_watershed). Wasserquellen wie die Weißmainquelle bauen sich auf und treten schließlich durch Bamberg aus.
 
-**Bold** and _Italic_ and `Code` text
+Flüsse hatten schon immer einen Mehrzwecknutzenrahmen. Hochwasserschutz, Schifffahrt, Erholung, Bewässerung und Wasserversorgung sind grundlegende Vorteile von Flüssen. Wasserkraft kann für Bamberg wieder ein Game Changer sein. Über Hunderte von Jahren haben Gemeinden mit Wasserstraßen politische Macht und Nutzen ausgeübt. Die Geschichte hat uns gezeigt, dass der Bau von Wasserkraftwerken Einfluss auf die nachgelagerten Volkswirtschaften ausüben kann. In manchen Fällen können Staudämme Städte, Staaten und Nationen die politische Macht entziehen. Die Geschichte hat auch bewiesen, dass der First-Mover-Vorteil auch Einfluss und Vorteile geltend macht. Dieser Vorschlag fördert einen verantwortungsvollen Umgang mit den der Stadt zur Verfügung stehenden Wasserressourcen und dem First-Mover-Vorteil für eine zusätzliche Wirtschaftlichkeit für Bamberg. 
 
-[Link](url) and ![Image](src)
-```
+### **VORSCHLAG**
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Das Stadtwerk Bamberg produziert jährlich rund 30 GWh nachhaltigen Strom für Bamberg und Umgebung [(2)](https://www.stadtwerke-bamberg.de/energie/oekostrom/erneuerbar-und-effizient). Der größte Teil dieser 30 GWh wird jedoch zu den Höhepunkten des Tages verbraucht. Außerhalb dieser Hochpunkte produzieren Photovoltaik-, Wind- und Wasserkraftwerke weiterhin Energie und die nicht speicherbare Energie geht verloren. Dieser Vorschlag fördert die Übertragung dieser Überkapazitäten auf das Schürfen von Bitcoin, damit Bambergs natürliche Energiespeicherung nicht verschwendet wird. Darüber hinaus wird die Umwandlung von Energie in Wert durch Bitcoin-Mining dazu beitragen, dass Photovoltaik, Windkraftanlagen und Wasserkraftwerke schneller eine Rendite erzielen [(3)](http://squ.re/BCEI-whitepaper). Investitionen in Bitcoin-Mining werden dazu beitragen, die Einführung erneuerbarer und umweltfreundlicher Energien zu beschleunigen. was hilft zu entfernen CO2 aus der Atmosphäre und trägt damit dazu bei, die Verantwortung der Nation gegenüber dem Pariser Abkommen zu erfüllen. 
 
-### Jekyll Themes
+Die Planung neuer Mini-Wasserkraftwerke an Regnitz und Itz sollte ein vorrangiges Projekt für Bamberg sein, während das Wasserkraftwerk in Viereth mit der Umsetzung einer Bitcoin-Mining-Strategie mit dem Überfluss von Energie beginnen kann, die nicht gespeichert oder verkauft werden kann. Die Investition in die Anlage in Viereth sollte minimal sein, da sie hauptsächlich den Kauf von Bergbauausrüstung erfordern würde. Die Gründung eines solchen Projekts wird bekannt werden, Tech-Startups in Bamberg unterstützen, talentierte Entwickler anziehen und Technologieunternehmen dazu inspirieren, sich an der Vermögensgenerierung des Bamberger Bitcoin-Projekts zu beteiligen. Der Aufbau von Lösungen zur Erschließung dieser wachsenden Wirtschaft, die nachhaltig und umweltfreundlich ist, wird der Stadt im 21. Jahrhundert offiziellen Einfluss und Glaubwürdigkeit verleihen.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bambergbitcoin/proposal/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### **ZUSAMMENFASSUNG**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Große Städte wie Miami, New York und Rio de Janeiro wandeln sich zu neuen Volkswirtschaften und führen Innovationen in die Kryptowährungswirtschaft ein [(4)](https://youtu.be/2sG4UWaP920). Einige der Politiker können diesen wirtschaftlichen Wandel vorhersehen und positionieren ihre Städte so, dass sie davon profitieren Bürger und ihr Status auf der Weltbühne. Durch die Teilnahme am Bitcoin-Mining, bevor die Kryptowährungsökonomie zum Mainstream wird, wäre Bamberg in einer Führungsposition. Die Stadt würde der Welt ein Beispiel dafür zeigen, wie Bamberg seine einzigartige geografische Lage genutzt, seine Ressourcen bewertet und eine Wirtschaft für zukünftige Generationen aufgebaut hat. Die Bemühungen würden der Stadt Langlebigkeit verleihen und zu ihrer reichen Geschichte beitragen.
+
+
+### **REFERENZ**
+
+[(1)](https://en.wikipedia.org/wiki/European_watershed) European watershed – <https://en.wikipedia.org/wiki/European_watershed>
+
+[(2)](https://www.stadtwerke-bamberg.de/energie/oekostrom/erneuerbar-und-effizient) Energieerzeugung vor den Toren Bambergs  – <https://www.stadtwerke-bamberg.de/energie/oekostrom/erneuerbar-und-effizient>
+
+[(3)](http://squ.re/BCEI-whitepaper) Bitcoin is Key to an Abundant, Clean  Energy Future – <http://squ.re/BCEI-whitepaper>
+
+[(4)](https://youtu.be/2sG4UWaP920) Rio de Janeiro is the Newest Bitcoin City – <https://youtu.be/2sG4UWaP920>
