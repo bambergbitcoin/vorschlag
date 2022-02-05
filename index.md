@@ -22,11 +22,15 @@ Das Stadtwerk Bamberg produziert jährlich rund 30 GWh nachhaltigen Strom für B
 
 Die Planung neuer Mini-Wasserkraftwerke an Regnitz und Itz sollte ein vorrangiges Projekt für Bamberg sein, während das Wasserkraftwerk in Viereth mit der Umsetzung einer Bitcoin-Mining-Strategie mit dem Überfluss von Energie beginnen kann, die nicht gespeichert oder verkauft werden kann. Die Investition in die Anlage in Viereth sollte minimal sein, da sie hauptsächlich den Kauf von Bergbauausrüstung erfordern würde. Die Gründung eines solchen Projekts wird bekannt werden, Tech-Startups in Bamberg unterstützen, talentierte Entwickler anziehen und Technologieunternehmen dazu inspirieren, sich an der Vermögensgenerierung des Bamberger Bitcoin-Projekts zu beteiligen. Der Aufbau von Lösungen zur Erschließung dieser wachsenden Wirtschaft, die nachhaltig und umweltfreundlich ist, wird der Stadt im 21. Jahrhundert offiziellen Einfluss und Glaubwürdigkeit verleihen.
 
+### Berechtigte Stadtfonds von citycoin Stacking
+
+Die Stadt kann durch [Citycoin](https://github.com/citycoins/citycoin) sofort ohne Investition vom Mining profitieren. [Citycoin](https://www.citycoins.co/) ist ein Smart Contract auf der Bitcoin-Blockchain. Eine Behörde der Stadt muss nur das Protokoll aktivieren, um einen Stadt-Token zu starten. Durch die Übertragung von BTC auf den City Token werden Mittel für die Stadt geschaffen. Stadtmarketing und Unternehmen können vereinbaren, wie der City-Token den Inhabern zugute kommt. 
+
+Stacker erhalten die STX, die für das Mining der CityCoins ausgegeben werden. 70 % der Mining-Belohnungen werden an Personen verteilt, die sich entschieden haben, ihre CityCoins (Stacker) zu stapeln. Der reservierte Geldbeutel der Stadt wächst. 30 % der Mining-Belohnungen werden (in STX) an die verwahrte Reserve-Brieftasche einer Stadt gesendet. Die Stadt kann dies beanspruchen und ihren STX jederzeit in USD umwandeln. Diese kann dann für die Stadt in Bitcoin oder EUR umgerechnet werden. 
 
 ### **ZUSAMMENFASSUNG**
 
 Große Städte wie Miami, New York und Rio de Janeiro wandeln sich zu neuen Volkswirtschaften und führen Innovationen in die Kryptowährungswirtschaft ein [(4)](https://youtu.be/2sG4UWaP920). Einige der Politiker können diesen wirtschaftlichen Wandel vorhersehen und positionieren ihre Städte so, dass sie davon profitieren Bürger und ihr Status auf der Weltbühne. Durch die Teilnahme am Bitcoin-Mining, bevor die Kryptowährungsökonomie zum Mainstream wird, wäre Bamberg in einer Führungsposition. Die Stadt würde der Welt ein Beispiel dafür zeigen, wie Bamberg seine einzigartige geografische Lage genutzt, seine Ressourcen bewertet und eine Wirtschaft für zukünftige Generationen aufgebaut hat. Die Bemühungen würden der Stadt Langlebigkeit verleihen und zu ihrer reichen Geschichte beitragen.
-
 
 ### **REFERENZ**
 
