@@ -24,7 +24,7 @@ Die Planung neuer Mini-Wasserkraftwerke an Regnitz und Itz sollte ein vorrangige
 
 ### Berechtigte Stadtfonds von citycoin Stacking
 
-Die Stadt kann durch [Citycoin](https://github.com/citycoins/citycoin) sofort ohne Investition vom Mining profitieren. [Citycoin](https://www.citycoins.co/) ist ein Smart Contract auf der Bitcoin-Blockchain. Eine Behörde der Stadt muss nur das Protokoll aktivieren, um einen Stadt-Token zu starten. Durch die Übertragung von BTC auf den City Token werden Mittel für die Stadt geschaffen. Stadtmarketing und Unternehmen können vereinbaren, wie der City-Token den Inhabern zugute kommt. 
+Die Stadt kann durch [Citycoin](https://github.com/citycoins/citycoin) sofort ohne Investition vom Mining profitieren. [Citycoin](https://www.citycoins.co/) ist ein Smart Contract auf der Bitcoin-Blockchain. Eine Behörde der Stadt muss nur das Protokoll aktivieren, um einen Stadt-Token zu starten. Um das Protokoll zu aktivieren, müssen 20 Stacks Wallets aktiviert werden. Durch die Übertragung von BTC auf den City Token werden Gelder für die Stadt geschaffen. Stadtmarketing und Unternehmen können sich darauf einigen, wie der City-Token den Inhabern zugute kommt, da Anwendungen auf Bambergs Citycoin aufbauen können.
 
 Stacker erhalten die STX, die für das Mining der CityCoins ausgegeben werden. 70 % der Mining-Belohnungen werden an Personen verteilt, die sich entschieden haben, ihre CityCoins (Stacker) zu stapeln. Der reservierte Geldbeutel der Stadt wächst. 30 % der Mining-Belohnungen werden (in STX) an die verwahrte Reserve-Brieftasche einer Stadt gesendet. Die Stadt kann dies beanspruchen und ihren STX jederzeit in USD umwandeln. Diese kann dann für die Stadt in Bitcoin oder EUR umgerechnet werden. 
 
