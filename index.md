@@ -32,6 +32,8 @@ Stacker erhalten die STX, die für das Mining der CityCoins ausgegeben werden. 7
 
 Große Städte wie Miami, New York und Rio de Janeiro wandeln sich zu neuen Volkswirtschaften und führen Innovationen in die Kryptowährungswirtschaft ein [(4)](https://youtu.be/2sG4UWaP920). Einige der Politiker können diesen wirtschaftlichen Wandel vorhersehen und positionieren ihre Städte so, dass sie davon profitieren Bürger und ihr Status auf der Weltbühne. Durch die Teilnahme am Bitcoin-Mining, bevor die Kryptowährungsökonomie zum Mainstream wird, wäre Bamberg in einer Führungsposition. Die Stadt würde der Welt ein Beispiel dafür zeigen, wie Bamberg seine einzigartige geografische Lage genutzt, seine Ressourcen bewertet und eine Wirtschaft für zukünftige Generationen aufgebaut hat. Die Bemühungen würden der Stadt Langlebigkeit verleihen und zu ihrer reichen Geschichte beitragen.
 
+Die Stadt Lugano ist die wirtschaftliche Hauptstadt der Südschweiz und hat eine neue Partnerschaft mit dem Stablecoin-Anbieter Tether (USDT). Die Stadt will Kryptowährungen für Steuerzahlungen verwenden [(5)](https://de.cointelegraph.com/news/swiss-city-of-lugano-to-pay-taxes-in-crypto-via-tether-partnership). Bamberg sollte sofort in diesen Markt einsteigen. Die Bundesregierung bietet Bamberg die Möglichkeit, den finanziellen Wohlstand zu beschleunigen und einen neuen Fintech-Markt / -Sektor aufzubauen. Bamberg hat jetzt die Möglichkeit, finanzielle Unabhängigkeit aufzubauen, und sollte jetzt dazu übergehen, sein Smart-City-Projekt weiter zu integrieren. [(6)](https://smartcity.bamberg.de/)
+
 ### **REFERENZ**
 
 [(1)](https://en.wikipedia.org/wiki/European_watershed) European watershed – <https://en.wikipedia.org/wiki/European_watershed>
@@ -42,7 +44,11 @@ Große Städte wie Miami, New York und Rio de Janeiro wandeln sich zu neuen Volk
 
 [(4)](https://youtu.be/2sG4UWaP920) Rio de Janeiro is the Newest Bitcoin City – <https://youtu.be/2sG4UWaP920>
 
+[(5)](https://de.cointelegraph.com/news/swiss-city-of-lugano-to-pay-taxes-in-crypto-via-tether-partnership) Schweizer Stadt Lugano: Tether-Partnerschaft für Steuerzahlungen in Krypto – <https://de.cointelegraph.com/news/swiss-city-of-lugano-to-pay-taxes-in-crypto-via-tether-partnership>
+
+[(6)](https://smartcity.bamberg.de/) Bamberg Smart City Programm – <https://smartcity.bamberg.de/>
+
 Search: `Harvesting`, `Renewable`, `Energy`, `Energy/Value Conversion`, `Bitcoin`, `Wertaufbewahrungsmittel`, `Mining`, `New Economy`, `Stadtfonds`, `Bamberg`, `Store of Value`.
 
-<meta name="Harvesting, `Renewable, Energy, Energy/Value Conversion, Bitcoin, Wertaufbewahrungsmittel, Mining, New Economy, Stadtfonds, Bamberg, store of value, prposal, Vorschlag, city funds, bitcoin bamberg, bamberg bitcoin, future" content="HTML,CSS,XML,JavaScript">
+<meta name="Harvesting, `Renewable, Energy, Energy/Value Conversion, Bitcoin, Wertaufbewahrungsmittel, Mining, New Economy, Stadtfonds, Bamberg, store of value, prposal, Vorschlag, city funds, bitcoin bamberg, bamberg bitcoin, future, Lugano" content="HTML,CSS,XML,JavaScript">
 <meta name="description" content="Bamberg Bitcoin Vorschlag.">
