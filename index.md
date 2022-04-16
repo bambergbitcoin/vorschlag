@@ -18,7 +18,7 @@ Flüsse hatten schon immer einen Mehrzwecknutzenrahmen. Hochwasserschutz, Schiff
 
 Der Einsatz neuer Energie-Whirlpool-Turbinen von Unternehmen wie [Turbulent](https://www.turbulent.be/) kann dazu beitragen, die Landschaft in Gebieten wie Hollergraben und Walkmühle am Regnitzarm zu verändern. Dadurch wird die Wasserstraße in nachhaltige Wasserkraft für die Stadt umgewandelt und eine 24/7-Stromversorgung und Wohlstand aus dem Bitcoin-Mining für den zukünftigen Wohlstand der Stadt bereitgestellt.
 
-<![![Turbulent](https://static.wixstatic.com/media/20e303_99eaf43d658a4c3096f0c50cf4658cfc~mv2.png)](https://youtu.be/buF8ASmwXt4 "Whirlpool Turbines Can Provide 24/7 Renewable Energy For Dozens Of Homes")
+[![Whirlpool Turbines Can Provide 24/7 Renewable Energy](https://inteng-storage.s3.amazonaws.com/img/iea/Xm6lY38ewD/sizes/short-bypass_resize_md.png)](https://youtu.be/buF8ASmwXt4 "Whirlpool Turbines Can Provide 24/7 Renewable Energy")
 
 ### **VORSCHLAG**
 
