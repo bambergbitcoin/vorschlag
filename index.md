@@ -30,7 +30,7 @@ Das Stadtwerk Bamberg produziert jährlich rund 30 GWh nachhaltigen Strom für B
 
 <center><img src="https://miro.medium.com/max/1400/1*A2wSYCO7pj2GMsSLTZIpVg.png"></center>
 
-#### Image vom https://www.awattar.de/ vom Mark Breyer ins [At which hour is electricity the cheapest in Germany?]( https://medium.com/@mark.breyer/at-which-hour-is-electricity-the-cheapest-in-germany-ff5db91e1b61)
+#### Image vom [awattar.de](https://www.awattar.de/) vom Mark Breyer ins [At which hour is electricity the cheapest in Germany?]( https://medium.com/@mark.breyer/at-which-hour-is-electricity-the-cheapest-in-germany-ff5db91e1b61)
 
 
 Dieser Vorschlag fördert die Übertragung dieser Überkapazitäten auf das Schürfen von Bitcoin, damit Bambergs natürliche Energiespeicherung nicht verschwendet wird. Darüber hinaus wird die Umwandlung von Energie in Wert durch Bitcoin-Mining dazu beitragen, dass Photovoltaik, Windkraftanlagen und Wasserkraftwerke schneller eine Rendite erzielen [(3)](http://squ.re/BCEI-whitepaper). Investitionen in Bitcoin-Mining werden dazu beitragen, die Einführung erneuerbarer und umweltfreundlicher Energien zu beschleunigen. was hilft zu entfernen CO2 aus der Atmosphäre und trägt damit dazu bei, die Verantwortung der Nation gegenüber dem Pariser Abkommen zu erfüllen. 
