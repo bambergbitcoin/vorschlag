@@ -20,6 +20,8 @@ Der Einsatz neuer Energie-Whirlpool-Turbinen von Unternehmen wie [Turbulent](htt
 
 [![Whirlpool Turbines Can Provide 24/7 Renewable Energy](https://inteng-storage.s3.amazonaws.com/img/iea/Xm6lY38ewD/sizes/short-bypass_resize_md.png)](https://youtu.be/buF8ASmwXt4 "Whirlpool Turbines Can Provide 24/7 Renewable Energy")
 
+#### Image vom Loukia Papadopoulos ins [Diese fischfreundliche Whirlpool-Turbine kann bis zu 60 Haushalte mit Strom versorgen](https://www.wissenschaft-x.com/this-fish-friendly-whirlpool-turbine-can-power-up-to-60-homes)
+
 ### **VORSCHLAG**
 
 Die Bamberger fordern die Stadtverwaltung auf, mit der Umsetzung der Wasserkraftinfrastruktur im Rahmen des städtischen Gestaltungsplans zu beginnen und mit der Nutzung erneuerbarer/nachhaltiger Energieprojekte zum Schürfen von Bitcoin zu beginnen. Ein Stadtrat, der einen jährlichen Bericht/eine Gemeindeversammlung über die Bitcoin-Mining-Bemühungen vorlegt, wird die Einwohner über die Bemühungen informieren und transparent und überprüfbar sein; Auf diese Weise können die Bürger sehen, wie die aus Bambergs Bitcoin-Mining-Ressourcen angesammelten Mittel zur Verbesserung und Erhaltung der Stadt verwendet werden. 
@@ -27,6 +29,9 @@ Die Bamberger fordern die Stadtverwaltung auf, mit der Umsetzung der Wasserkraft
 Das Stadtwerk Bamberg produziert jährlich rund 30 GWh nachhaltigen Strom für Bamberg und Umgebung [(2)](https://www.stadtwerke-bamberg.de/energie/oekostrom/erneuerbar-und-effizient). Der größte Teil dieser 30 GWh wird jedoch zu den Höhepunkten des Tages verbraucht. Außerhalb dieser Hochpunkte produzieren Photovoltaik-, Wind- und Wasserkraftwerke weiterhin Energie und die nicht speicherbare Energie geht verloren. Diese Energie, die nicht gespeichert werden kann, geht verloren. Wenn es gespeichert oder verwendet werden kann, entstehen Stromüberkapazitätslasten für die Energieinfrastruktur. Jeden Tag spät in der Nacht und am frühen Morgen, wenn die Stromnachfrage gering ist, kann diese Überkapazität zum Aufbau des Wohlstands der Stadt genutzt werden. 
 
 <center><img src="https://miro.medium.com/max/1400/1*A2wSYCO7pj2GMsSLTZIpVg.png"></center>
+
+#### Image vom https://www.awattar.de/ vom Mark Breyer ins [At which hour is electricity the cheapest in Germany?]( https://medium.com/@mark.breyer/at-which-hour-is-electricity-the-cheapest-in-germany-ff5db91e1b61)
+
 
 Dieser Vorschlag fördert die Übertragung dieser Überkapazitäten auf das Schürfen von Bitcoin, damit Bambergs natürliche Energiespeicherung nicht verschwendet wird. Darüber hinaus wird die Umwandlung von Energie in Wert durch Bitcoin-Mining dazu beitragen, dass Photovoltaik, Windkraftanlagen und Wasserkraftwerke schneller eine Rendite erzielen [(3)](http://squ.re/BCEI-whitepaper). Investitionen in Bitcoin-Mining werden dazu beitragen, die Einführung erneuerbarer und umweltfreundlicher Energien zu beschleunigen. was hilft zu entfernen CO2 aus der Atmosphäre und trägt damit dazu bei, die Verantwortung der Nation gegenüber dem Pariser Abkommen zu erfüllen. 
 
