@@ -65,7 +65,9 @@ Die Stadt Lugano ist die wirtschaftliche Hauptstadt der Südschweiz und hat eine
 
 ### **IMAGE**
 
+[Diese fischfreundliche Whirlpool-Turbine kann bis zu 60 Haushalte mit Strom versorgen](https://www.wissenschaft-x.com/this-fish-friendly-whirlpool-turbine-can-power-up-to-60-homes)
 [At which hour is electricity the cheapest in Germany?](https://medium.com/@mark.breyer/at-which-hour-is-electricity-the-cheapest-in-germany-ff5db91e1b61)
+
 
 Search: `Harvesting`, `Renewable`, `Energy`, `Energy/Value Conversion`, `Bitcoin`, `Wertaufbewahrungsmittel`, `Mining`, `New Economy`, `Stadtfonds`, `Bamberg`, `Store of Value`.
 
