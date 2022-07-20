@@ -6,9 +6,11 @@ Viele internationale Städte befinden sich an einem entscheidenden Punkt in der 
 
 ### **EINLEITUNG**
 
-Wie die Wirtschaften der Vergangenheit, die die Nutzung von Mühlen und den Transport des Werts von Holz (Ressourcen) durch die Flüsse beinhalteten, kann eine neue Wirtschaft für Oberfranken mit erneuerbarer Energie geschmiedet werden, die die kinetische Energie der Flüsse in gespeicherte Werte und Einsparungen für die Stadt umwandelt . Diese Mittel können dann als Einnahmequelle und Wertaufbewahrungsmittel für Bamberg genutzt werden. 
+Wie die Wirtschaften der Vergangenheit, die die Nutzung von Mühlen und den Transport des Werts von Holz (Ressourcen) durch die Flüsse beinhalteten, kann eine neue Wirtschaft für Oberfranken mit erneuerbarer Energie geschmiedet werden, die die kinetische Energie der Flüsse in gespeicherte Werte und Einsparungen für die Stadt umwandelt . Diese Mittel können dann als Einnahmequelle und Wertaufbewahrungsmittel für Bamberg genutzt werden.
 
 ### **GOLDFLIEßENDER FLUSS**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today regulators want to curtail <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> mining 🤔<br><br>In &lt;10 years, they will flip 180° &amp; regulate that every power station MUST HAVE an integrated Bitcoin mining loadbank, making the generator extremely flexible and able to respond rapidly to grid price &amp; reliability signals 🙃</p>&mdash; nimacheeps (@nimacheeps) <a href="https://twitter.com/nimacheeps/status/1548637293401047040?ref_src=twsrc%5Etfw">July 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 Wie die Wirtschaften der Vergangenheit, die Mühlen nutzten und den Wert von Holz (Ressourcen) durch die Flüsse transportierten, kann für Oberfranken mit erneuerbaren Energien eine neue Wirtschaft geschmiedet werden, die die kinetische Energie der Flüsse in gespeicherte Werte und Einsparungen für die Stadt umwandelt Kassen. Diese Mittel können dann als Einnahmequelle und Wertaufbewahrungsmittel für Bamberg genutzt werden. Investmentbanken, die Bitcoin-Energieprojekte wie [Jefferies Investment Banking](https://www.jefferies.com/) finanzieren, können den Stadtwerken und dem Projekt helfen, Kapital zu gewinnen. 
 
