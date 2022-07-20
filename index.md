@@ -10,7 +10,9 @@ Wie die Wirtschaften der Vergangenheit, die die Nutzung von Mühlen und den Tran
 
 ### **GOLDFLIEßENDER FLUSS**
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today regulators want to curtail <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> mining 🤔<br><br>In &lt;10 years, they will flip 180° &amp; regulate that every power station MUST HAVE an integrated Bitcoin mining loadbank, making the generator extremely flexible and able to respond rapidly to grid price &amp; reliability signals 🙃</p>&mdash; nimacheeps (@nimacheeps) <a href="https://twitter.com/nimacheeps/status/1548637293401047040?ref_src=twsrc%5Etfw">July 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+[![Whirlpool Turbines Can Provide 24/7 Renewable Energy](https://inteng-storage.s3.amazonaws.com/img/iea/Xm6lY38ewD/sizes/short-bypass_resize_md.png)](https://youtu.be/buF8ASmwXt4 "Whirlpool Turbines Can Provide 24/7 Renewable Energy")
+
+#### Image vom Loukia Papadopoulos ins [Diese fischfreundliche Whirlpool-Turbine kann bis zu 60 Haushalte mit Strom versorgen](https://www.wissenschaft-x.com/this-fish-friendly-whirlpool-turbine-can-power-up-to-60-homes)
 
 Wie die Wirtschaften der Vergangenheit, die Mühlen nutzten und den Wert von Holz (Ressourcen) durch die Flüsse transportierten, kann für Oberfranken mit erneuerbaren Energien eine neue Wirtschaft geschmiedet werden, die die kinetische Energie der Flüsse in gespeicherte Werte und Einsparungen für die Stadt umwandelt Kassen. Diese Mittel können dann als Einnahmequelle und Wertaufbewahrungsmittel für Bamberg genutzt werden. Investmentbanken, die Bitcoin-Energieprojekte wie [Jefferies Investment Banking](https://www.jefferies.com/) finanzieren, können den Stadtwerken und dem Projekt helfen, Kapital zu gewinnen. 
 
@@ -20,9 +22,11 @@ Flüsse hatten schon immer einen Mehrzwecknutzenrahmen. Hochwasserschutz, Schiff
 
 Der Einsatz neuer Energie-Whirlpool-Turbinen von Unternehmen wie [Turbulent](https://www.turbulent.be/) kann dazu beitragen, die Landschaft in Gebieten wie Hollergraben (unterhalb des Münchner Rings) und Walkmühle (neben Schleuse 100 Ludwig-Main-Donau-Kanal) am Regnitzarm zu verändern. Es gibt andere Orte in Bamberg (wie Jahnwehr), um diese Turbinendesigns zu platzieren, die die Wasserstraße in nachhaltige Wasserkraft für die Stadt umwandeln und rund um die Uhr Strom und Wohlstand aus dem Bitcoin-Mining für den zukünftigen Wohlstand der Stadt liefern werden.
 
-[![Whirlpool Turbines Can Provide 24/7 Renewable Energy](https://inteng-storage.s3.amazonaws.com/img/iea/Xm6lY38ewD/sizes/short-bypass_resize_md.png)](https://youtu.be/buF8ASmwXt4 "Whirlpool Turbines Can Provide 24/7 Renewable Energy")
+### Zweites Donaunetz
 
-#### Image vom Loukia Papadopoulos ins [Diese fischfreundliche Whirlpool-Turbine kann bis zu 60 Haushalte mit Strom versorgen](https://www.wissenschaft-x.com/this-fish-friendly-whirlpool-turbine-can-power-up-to-60-homes)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today regulators want to curtail <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> mining 🤔<br><br>In &lt;10 years, they will flip 180° &amp; regulate that every power station MUST HAVE an integrated Bitcoin mining loadbank, making the generator extremely flexible and able to respond rapidly to grid price &amp; reliability signals 🙃</p>&mdash; nimacheeps (@nimacheeps) <a href="https://twitter.com/nimacheeps/status/1548637293401047040?ref_src=twsrc%5Etfw">July 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+Das Donaunetz hat einen zweiten wirtschaftlichen Vorteil für die Einwohner Frankens und der Oberpfalz. Mini-Wasserkraftwerke mit integrierten Bitcoin-Mining-Lastbänken können mit künstlichem intelligentem Design verwendet werden. Wenn die stromabwärts fließende Energie nicht erfasst werden kann, weil die Batterien voller Energiespeicher sind und sich überschüssige Energie ansammelt, kann Bitcoin abgebaut werden, wodurch ein zweites Donau-Netzwerk entsteht, das einen flexiblen Generator erzeugt. Dadurch können intelligente Energienetze schnell auf Preis-, Energie- und Zuverlässigkeitssignale reagieren.
 
 ### **VORSCHLAG**
 
@@ -38,12 +42,6 @@ Das Stadtwerk Bamberg produziert jährlich rund 30 GWh nachhaltigen Strom für B
 Dieser Vorschlag fördert die Übertragung dieser Überkapazitäten auf das Schürfen von Bitcoin, damit Bambergs natürliche Energiespeicherung nicht verschwendet wird. Darüber hinaus wird die Umwandlung von Energie in Wert durch Bitcoin-Mining dazu beitragen, dass Photovoltaik, Windkraftanlagen und Wasserkraftwerke schneller eine Rendite erzielen [(3)](http://squ.re/BCEI-whitepaper). Investitionen in Bitcoin-Mining werden dazu beitragen, die Einführung erneuerbarer und umweltfreundlicher Energien zu beschleunigen. was hilft zu entfernen CO2 aus der Atmosphäre und trägt damit dazu bei, die Verantwortung der Nation gegenüber dem Pariser Abkommen zu erfüllen. 
 
 Die Planung neuer Mini-Wasserkraftwerke an Regnitz und Itz sollte ein vorrangiges Projekt für Bamberg sein, während das Wasserkraftwerk in Viereth mit der Umsetzung einer Bitcoin-Mining-Strategie mit dem Überfluss von Energie beginnen kann, die nicht gespeichert oder verkauft werden kann. Die Investition in die Anlage in Viereth sollte minimal sein, da sie hauptsächlich den Kauf von Bergbauausrüstung erfordern würde. Die Gründung eines solchen Projekts wird bekannt werden, Tech-Startups in Bamberg unterstützen, talentierte Entwickler anziehen und Technologieunternehmen dazu inspirieren, sich an der Vermögensgenerierung des Bamberger Bitcoin-Projekts zu beteiligen. Der Aufbau von Lösungen zur Erschließung dieser wachsenden Wirtschaft, die nachhaltig und umweltfreundlich ist, wird der Stadt im 21. Jahrhundert offiziellen Einfluss und Glaubwürdigkeit verleihen.
-
-### Berechtigte Stadtfonds von citycoin Stacking
-
-Die Stadt kann durch [Citycoin](https://github.com/citycoins/citycoin) sofort ohne Investition vom Mining profitieren. [Citycoin](https://www.citycoins.co/) ist ein Smart Contract auf der Bitcoin-Blockchain. Eine Behörde der Stadt muss nur das Protokoll aktivieren, um einen Stadt-Token zu starten. Um das Protokoll zu aktivieren, müssen 20 Stacks Wallets aktiviert werden. Durch die Übertragung von BTC auf den City Token werden Gelder für die Stadt geschaffen. Stadtmarketing und Unternehmen können sich darauf einigen, wie der City-Token den Inhabern zugute kommt, da Anwendungen auf Bambergs Citycoin aufbauen können.
-
-Stacker erhalten die STX, die für das Mining der CityCoins ausgegeben werden. 70 % der Mining-Belohnungen werden an Personen verteilt, die sich entschieden haben, ihre CityCoins (Stacker) zu stapeln. Der reservierte Geldbeutel der Stadt wächst. 30 % der Mining-Belohnungen werden (in STX) an die verwahrte Reserve-Brieftasche einer Stadt gesendet. Die Stadt kann dies beanspruchen und ihren STX jederzeit in USD umwandeln. Diese kann dann für die Stadt in Bitcoin oder EUR umgerechnet werden. 
 
 ### **ZUSAMMENFASSUNG**
 
