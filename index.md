@@ -30,7 +30,7 @@ Wie der Main-Donau-Kanal lässt sich das Schürfen von Bitcoin wie ein zweites E
 
 ### DIE UMWELTDISKUSSION PROOF OF WORK VS. PROOF OF STAKE
 
-Weder Proof of Work noch Proof of Stake emittieren CO2. Dies sind verschiedene Formen der Berechnung, die von verschiedenen Energiequellen angetrieben werden können. Erneuerbare Energien oder fossile Brennstoffe sind eine Entscheidung, die Menschen treffen, wenn sie eine Energiequelle für ihr Zuhause auswählen. Neben dem Unterschied in den Ideen und Berechnungen von Proof of Work vs. Proof of Stake ergänzen sich die beiden; Proof of Stake ist ein Protokoll für das dezentralisierte Web und Proof of Work ist ein Protokoll für das sicherste und dezentralisierte „Store of Value“ und die Abrechnung.
+Weder Proof of Work noch Proof of Stake emittieren CO2. Dies sind verschiedene Formen der Berechnung, die von verschiedenen Energiequellen angetrieben werden können. Erneuerbare Energien oder fossile Brennstoffe sind eine Entscheidung, die Menschen treffen, wenn sie eine Energiequelle für ihr Zuhause auswählen. Neben dem Unterschied in den Ideen und Berechnungen von Proof of Work vs. Proof of Stake ergänzen sich die beiden; Proof of Stake ist ein Protokoll für das dezentralisierte Web und Proof of Work ist ein Protokoll für das sicherste und dezentralisierte „Store of Value“ und das Begleichung.
 
 ### **VORSCHLAG**
 
