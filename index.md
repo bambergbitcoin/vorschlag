@@ -1,3 +1,5 @@
+**Der Autor dieses Dokuments ist kein deutscher Muttersprachler. Unterstützung bei der Übersetzung des Dokuments in besseres Deutsch ist erwünscht.**
+
 ## **Wirtschaftlicher Nutzen des Bitcoin-Minings für die Stadt Bamberg**
 
 ### **ABSTRAKT**
