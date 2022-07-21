@@ -22,7 +22,7 @@ Flüsse hatten schon immer einen Mehrzwecknutzenrahmen. Hochwasserschutz, Schiff
 
 Der Einsatz neuer Energie-Whirlpool-Turbinen von Unternehmen wie [Turbulent](https://www.turbulent.be/) kann dazu beitragen, die Landschaft in Gebieten wie Hollergraben (unterhalb des Münchner Rings) und Walkmühle (neben Schleuse 100 Ludwig-Main-Donau-Kanal) am Regnitzarm zu verändern. Es gibt andere Orte in Bamberg (wie Jahnwehr), um diese Turbinendesigns zu platzieren, die die Wasserstraße in nachhaltige Wasserkraft für die Stadt umwandeln und rund um die Uhr Strom und Wohlstand aus dem Bitcoin-Mining für den zukünftigen Wohlstand der Stadt liefern werden.
 
-### ELEKTRISCHES KANALNETZ
+### ELEKTRISCHES NETZWERK
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today regulators want to curtail <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> mining 🤔<br><br>In &lt;10 years, they will flip 180° &amp; regulate that every power station MUST HAVE an integrated Bitcoin mining loadbank, making the generator extremely flexible and able to respond rapidly to grid price &amp; reliability signals 🙃</p>&mdash; nimacheeps (@nimacheeps) <a href="https://twitter.com/nimacheeps/status/1548637293401047040?ref_src=twsrc%5Etfw">July 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
