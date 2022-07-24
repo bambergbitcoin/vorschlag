@@ -10,7 +10,7 @@ Viele internationale Städte befinden sich an einem entscheidenden Punkt in der 
 
 **eliminating emissions through gas flaring**
 
-<center><img src="https://paste.opensuse.org/0c768e6e"></center>
+<center><img src="https://paste.opensuse.org/view/raw/0c768e6e"></center>
 
 In Arbeit (sources)
 * https://mdpi-res.com/d_attachment/risks/risks-10-00127/article_deploy/risks-10-00127-v2.pdf?version=1655430820
