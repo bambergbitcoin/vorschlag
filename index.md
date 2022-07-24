@@ -12,9 +12,9 @@ Viele internationale Städte befinden sich an einem entscheidenden Punkt in der 
 
 <center><img src="https://paste.opensuse.org/view/raw/0c768e6e"></center>
 
-In Arbeit (sources)
+In Arbeit (sources to explore)
 * https://mdpi-res.com/d_attachment/risks/risks-10-00127/article_deploy/risks-10-00127-v2.pdf?version=1655430820
-* https://www.crusoeenergy.com/
+*  https://www.crusoeenergy.com/digital-flare-mitigation
 * https://planet-biogas.de/biogasprodukte/anlagentechnik/gasmanagement/
 
 ### **EINLEITUNG**
