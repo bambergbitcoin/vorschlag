@@ -6,6 +6,12 @@
 
 Viele internationale Städte befinden sich an einem entscheidenden Punkt in der Geschichte. Die globale Wirtschaft ist da und Städte konkurrieren um Talente, Jobs und Gelder. Stadtbeamte sind stark auf die Fähigkeiten der Einwohner angewiesen, um eine lokale Wirtschaft zu unterstützen. Stadtführer finden sich zwischen privaten Unternehmen wieder, die eine Gemeinde verlassen und lokale Arbeitsplätze mitnehmen, und Einwohnern, die Geld aus der Stadt abziehen, anstatt sie wieder aufzufüllen. Kurz gesagt, Gemeindebeamte müssen mit Wirtschaftsführern verhandeln, Talente importieren und die Vermögenswerte, Infrastruktur und Mittel der Stadt effektiv verwalten, um eine florierende lokale Wirtschaft zu erreichen. Arbeitsplätze, die nicht ersetzt werden, belasten die Stadt und ihre Fähigkeit, in einer wettbewerbsorientierten europäischen und globalen Gemeinschaft relevant zu bleiben. Der Zweck dieses Vorschlags ist es, einen Plan für Bamberg bereitzustellen, um seiner bereits vielfältigen lokalen Wirtschaft eine neue Wirtschaft hinzuzufügen. Durch die Demonstration der Vorteile des Aufbaus und der Nutzung von Energie, die für Bamberg einzigartig sind, können Aktionsprogramme von der Stadt umgesetzt werden, um Energie durch das Schürfen von Bitcoin in Geldwert umzuwandeln, um eine zusätzliche Wirtschaft für die Stadt zu schaffen.
 
+### *GASFACKELN*
+
+In Arbeit
+https://www.crusoeenergy.com/
+https://planet-biogas.de/biogasprodukte/anlagentechnik/gasmanagement/
+
 ### **EINLEITUNG**
 
 Wie die Wirtschaften der Vergangenheit, die die Nutzung von Mühlen und den Transport des Werts von Holz (Ressourcen) durch die Flüsse beinhalteten, kann eine neue Wirtschaft für Oberfranken mit erneuerbarer Energie geschmiedet werden, die die kinetische Energie der Flüsse in gespeicherte Werte und Einsparungen für die Stadt umwandelt . Diese Mittel können dann als Einnahmequelle und Wertaufbewahrungsmittel für Bamberg genutzt werden.
