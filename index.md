@@ -8,9 +8,10 @@ Viele internationale Städte befinden sich an einem entscheidenden Punkt in der 
 
 ### *GASFACKELN*
 
-In Arbeit
-https://www.crusoeenergy.com/
-https://planet-biogas.de/biogasprodukte/anlagentechnik/gasmanagement/
+In Arbeit (sources)
+* https://mdpi-res.com/d_attachment/risks/risks-10-00127/article_deploy/risks-10-00127-v2.pdf?version=1655430820
+* https://www.crusoeenergy.com/
+* https://planet-biogas.de/biogasprodukte/anlagentechnik/gasmanagement/
 
 ### **EINLEITUNG**
 
