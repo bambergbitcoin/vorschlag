@@ -40,6 +40,8 @@ Wie der Main-Donau-Kanal lässt sich das Mining von Bitcoin wie ein zweites Stro
 
 ### DIE UMWELTDISKUSSION PROOF OF WORK VS. PROOF OF STAKE
 
+[![Watch the video](https://img.youtube.com/vi/A7W-C1as65Y/hqdefault.jpg)](https://youtu.be/A7W-C1as65Y)
+
 Weder Proof of Work noch Proof of Stake emittieren CO2 [(2)](https://youtu.be/A7W-C1as65Y). Dies sind verschiedene Formen der Berechnung, die von verschiedenen Energiequellen angetrieben werden können. Erneuerbare Energien oder fossile Brennstoffe sind eine Entscheidung, die Menschen treffen, wenn sie eine Energiequelle für ihr Zuhause auswählen. Neben dem Unterschied in den Ideen und Berechnungen von Proof of Work vs. Proof of Stake ergänzen sich die beiden; Proof of Stake ist ein Protokoll für das dezentralisierte Web und Proof of Work ist ein Protokoll für das sicherste und dezentralisierte „Store of Value“ und das Begleichung.
 
 ### **VORSCHLAG**
@@ -59,7 +61,11 @@ Die Planung neuer Mini-Wasserkraftwerke an Regnitz und Itz sollte ein vorrangige
 
 ### **ZUSAMMENFASSUNG**
 
-Große Städte wie Miami, New York und Rio de Janeiro wandeln sich zu neuen Volkswirtschaften und führen Innovationen in die Kryptowährungswirtschaft ein [(5)](https://youtu.be/2sG4UWaP920). Fort Worth ist die [erste Stadt](https://digideutsche.com/kryptowaehrung/die-stadt-fort-worth-stimmt-fuer-das-bitcoin-mining-programm/) in den Vereinigten Staaten, die Bitcoin schürft, und Bamberg kann die erste Stadt sein, die Bitcoin in Deutschland schürft. Das wird Entwickler ansprechen und zum Umzug nach Bamberg bewegen. Einige der Politiker können diesen wirtschaftlichen Wandel vorhersehen und positionieren ihre Städte so, dass sie davon profitieren Bürger und ihr Status auf der Weltbühne. Durch die Teilnahme am Bitcoin-Mining, bevor die Kryptowährungsökonomie zum Mainstream wird, wäre Bamberg in einer Führungsposition. Die Stadt würde der Welt ein Beispiel dafür zeigen, wie Bamberg seine einzigartige geografische Lage genutzt, seine Ressourcen bewertet und eine Wirtschaft für zukünftige Generationen aufgebaut hat. Die Bemühungen würden der Stadt Langlebigkeit verleihen und zu ihrer reichen Geschichte beitragen.
+Große Städte wie Miami, New York und Rio de Janeiro wandeln sich zu neuen Volkswirtschaften und führen Innovationen in die Kryptowährungswirtschaft ein [(5)](https://youtu.be/2sG4UWaP920). 
+
+[![Watch the video](https://img.youtube.com/vi/2sG4UWaP920/hqdefault.jpg)](https://youtu.be/2sG4UWaP920)
+
+Fort Worth ist die [erste Stadt](https://digideutsche.com/kryptowaehrung/die-stadt-fort-worth-stimmt-fuer-das-bitcoin-mining-programm/) in den Vereinigten Staaten, die Bitcoin schürft, und Bamberg kann die erste Stadt sein, die Bitcoin in Deutschland schürft. Das wird Entwickler ansprechen und zum Umzug nach Bamberg bewegen. Einige der Politiker können diesen wirtschaftlichen Wandel vorhersehen und positionieren ihre Städte so, dass sie davon profitieren Bürger und ihr Status auf der Weltbühne. Durch die Teilnahme am Bitcoin-Mining, bevor die Kryptowährungsökonomie zum Mainstream wird, wäre Bamberg in einer Führungsposition. Die Stadt würde der Welt ein Beispiel dafür zeigen, wie Bamberg seine einzigartige geografische Lage genutzt, seine Ressourcen bewertet und eine Wirtschaft für zukünftige Generationen aufgebaut hat. Die Bemühungen würden der Stadt Langlebigkeit verleihen und zu ihrer reichen Geschichte beitragen.
 
 Die Stadt Lugano ist die wirtschaftliche Hauptstadt der Südschweiz und hat eine neue Partnerschaft mit dem Stablecoin-Anbieter Tether (USDT). Die Stadt will Kryptowährungen für Steuerzahlungen verwenden [(6)](https://de.cointelegraph.com/news/swiss-city-of-lugano-to-pay-taxes-in-crypto-via-tether-partnership). Bamberg sollte sofort in diesen Markt einsteigen. Die Bundesregierung bietet Bamberg die Möglichkeit, den finanziellen Wohlstand zu beschleunigen und einen neuen Fintech-Markt / -Sektor aufzubauen. Bamberg hat jetzt die Möglichkeit, finanzielle Unabhängigkeit aufzubauen, und sollte jetzt dazu übergehen, sein Smart-City-Projekt weiter zu integrieren. [(7)](https://smartcity.bamberg.de/)
 
