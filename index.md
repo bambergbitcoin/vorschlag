@@ -48,26 +48,26 @@ Weder Proof of Work noch Proof of Stake emittieren CO2 [(2)](https://youtu.be/A7
 
 Die Bamberger fordern die Stadtverwaltung auf, mit der Umsetzung der Wasserkraftinfrastruktur im Rahmen des städtischen Gestaltungsplans zu beginnen und mit der Nutzung erneuerbarer/nachhaltiger Energieprojekte zum Schürfen von Bitcoin zu beginnen. Ein Stadtrat, der einen jährlichen Bericht/eine Gemeindeversammlung über die Bitcoin-Mining-Bemühungen vorlegt, wird die Einwohner über die Bemühungen informieren und transparent und überprüfbar sein; Auf diese Weise können die Bürger sehen, wie die aus Bambergs Bitcoin-Mining-Ressourcen angesammelten Mittel zur Verbesserung und Erhaltung der Stadt verwendet werden. 
 
-Das Stadtwerk Bamberg produziert jährlich rund 30 GWh nachhaltigen Strom für Bamberg und Umgebung [(3)](https://www.stadtwerke-bamberg.de/energie/oekostrom/erneuerbar-und-effizient). Der größte Teil dieser 30 GWh wird jedoch zu den Höhepunkten des Tages verbraucht. Außerhalb dieser Hochpunkte produzieren Photovoltaik-, Wind- und Wasserkraftwerke weiterhin Energie und die nicht speicherbare Energie geht verloren. Diese Energie, die nicht gespeichert werden kann, geht verloren. Wenn es gespeichert oder verwendet werden kann, entstehen Stromüberkapazitätslasten für die Energieinfrastruktur. Jeden Tag spät in der Nacht und am frühen Morgen, wenn die Stromnachfrage gering ist, kann diese Überkapazität zum Aufbau des Wohlstands der Stadt genutzt werden. 
+Das Stadtwerk Bamberg produziert jährlich rund 30 GWh nachhaltigen Strom für Bamberg und Umgebung [(3)](https://www.stadtwerke-bamberg.de/energie/oekostrom/erneuerbar-und-effizient). Der größte Teil dieser 30 GWh wird jedoch zu den Höhepunkten des Tages verbraucht. Die Stadtwerke Bamberg und andere Energieunternehmen in Bamberg können das Stromnetz durch den Einsatz von Bitcoin Mining stabilisieren, so das White [House Office of Science and Technology Policy](https://www.whitehouse.gov/wp-content/uploads/2022/09/09-2022-Crypto-Assets-and-Climate-Report.pdf) [(4)](https://www.whitehouse.gov/wp-content/uploads/2022/09/09-2022-Crypto-Assets-and-Climate-Report.pdf). Außerhalb dieser Hochpunkte produzieren Photovoltaik-, Wind- und Wasserkraftwerke weiterhin Energie und die nicht speicherbare Energie geht verloren. Diese Energie, die nicht gespeichert werden kann, geht verloren. Wenn es gespeichert oder verwendet werden kann, entstehen Stromüberkapazitätslasten für die Energieinfrastruktur. Jeden Tag spät in der Nacht und am frühen Morgen, wenn die Stromnachfrage gering ist, kann diese Überkapazität zum Aufbau des Wohlstands der Stadt genutzt werden. 
 
 <center><img src="https://miro.medium.com/max/1400/1*A2wSYCO7pj2GMsSLTZIpVg.png"></center>
 
 #### Image vom [awattar.de](https://www.awattar.de/) vom Mark Breyer ins [At which hour is electricity the cheapest in Germany?]( https://medium.com/@mark.breyer/at-which-hour-is-electricity-the-cheapest-in-germany-ff5db91e1b61)
 
 
-Dieser Vorschlag fördert die Übertragung dieser Überkapazitäten auf das Schürfen von Bitcoin, damit Bambergs natürliche Energiespeicherung nicht verschwendet wird. Darüber hinaus wird die Umwandlung von Energie in Wert durch Bitcoin-Mining dazu beitragen, dass Photovoltaik, Windkraftanlagen und Wasserkraftwerke schneller eine Rendite erzielen [(4)](http://squ.re/BCEI-whitepaper). Investitionen in Bitcoin-Mining werden dazu beitragen, die Einführung erneuerbarer und umweltfreundlicher Energien zu beschleunigen. was hilft zu entfernen CO2 aus der Atmosphäre und trägt damit dazu bei, die Verantwortung der Nation gegenüber dem Pariser Abkommen zu erfüllen. 
+Dieser Vorschlag fördert die Übertragung dieser Überkapazitäten auf das Schürfen von Bitcoin, damit Bambergs natürliche Energiespeicherung nicht verschwendet wird. Darüber hinaus wird die Umwandlung von Energie in Wert durch Bitcoin-Mining dazu beitragen, dass Photovoltaik, Windkraftanlagen und Wasserkraftwerke schneller eine Rendite erzielen [(5)](http://squ.re/BCEI-whitepaper). Investitionen in Bitcoin-Mining werden dazu beitragen, die Einführung erneuerbarer und umweltfreundlicher Energien zu beschleunigen. was hilft zu entfernen CO2 aus der Atmosphäre und trägt damit dazu bei, die Verantwortung der Nation gegenüber dem Pariser Abkommen zu erfüllen. 
 
 Die Planung neuer Mini-Wasserkraftwerke an Regnitz und Itz sollte ein vorrangiges Projekt für Bamberg sein, während das Wasserkraftwerk in Viereth mit der Umsetzung einer Bitcoin-Mining-Strategie mit dem Überfluss von Energie beginnen kann, die nicht gespeichert oder verkauft werden kann. Die Investition in die Anlage in Viereth sollte minimal sein, da sie hauptsächlich den Kauf von Bergbauausrüstung erfordern würde. Die Gründung eines solchen Projekts wird bekannt werden, Tech-Startups in Bamberg unterstützen, talentierte Entwickler anziehen und Technologieunternehmen dazu inspirieren, sich an der Vermögensgenerierung des Bamberger Bitcoin-Projekts zu beteiligen. Der Aufbau von Lösungen zur Erschließung dieser wachsenden Wirtschaft, die nachhaltig und umweltfreundlich ist, wird der Stadt im 21. Jahrhundert offiziellen Einfluss und Glaubwürdigkeit verleihen.
 
 ### **ZUSAMMENFASSUNG**
 
-Große Städte wie Miami, New York und Rio de Janeiro wandeln sich zu neuen Volkswirtschaften und führen Innovationen in die Kryptowährungswirtschaft ein [(5)](https://youtu.be/2sG4UWaP920). 
+Große Städte wie Miami, New York und Rio de Janeiro wandeln sich zu neuen Volkswirtschaften und führen Innovationen in die Kryptowährungswirtschaft ein [(6)](https://youtu.be/2sG4UWaP920). 
 
 [![Watch the video](https://img.youtube.com/vi/2sG4UWaP920/hqdefault.jpg)](https://youtu.be/2sG4UWaP920)
 
 Fort Worth ist die [erste Stadt](https://digideutsche.com/kryptowaehrung/die-stadt-fort-worth-stimmt-fuer-das-bitcoin-mining-programm/) in den Vereinigten Staaten, die Bitcoin schürft, und Bamberg kann die erste Stadt sein, die Bitcoin in Deutschland schürft. Das wird Entwickler ansprechen und zum Umzug nach Bamberg bewegen. Einige der Politiker können diesen wirtschaftlichen Wandel vorhersehen und positionieren ihre Städte so, dass sie davon profitieren Bürger und ihr Status auf der Weltbühne. Durch die Teilnahme am Bitcoin-Mining, bevor die Kryptowährungsökonomie zum Mainstream wird, wäre Bamberg in einer Führungsposition. Die Stadt würde der Welt ein Beispiel dafür zeigen, wie Bamberg seine einzigartige geografische Lage genutzt, seine Ressourcen bewertet und eine Wirtschaft für zukünftige Generationen aufgebaut hat. Die Bemühungen würden der Stadt Langlebigkeit verleihen und zu ihrer reichen Geschichte beitragen.
 
-Die Stadt Lugano ist die wirtschaftliche Hauptstadt der Südschweiz und hat eine neue Partnerschaft mit dem Stablecoin-Anbieter Tether (USDT). Die Stadt will Kryptowährungen für Steuerzahlungen verwenden [(6)](https://de.cointelegraph.com/news/swiss-city-of-lugano-to-pay-taxes-in-crypto-via-tether-partnership). Bamberg sollte sofort in diesen Markt einsteigen. Die Bundesregierung bietet Bamberg die Möglichkeit, den finanziellen Wohlstand zu beschleunigen und einen neuen Fintech-Markt / -Sektor aufzubauen. Bamberg hat jetzt die Möglichkeit, finanzielle Unabhängigkeit aufzubauen, und sollte jetzt dazu übergehen, sein Smart-City-Projekt weiter zu integrieren. [(7)](https://smartcity.bamberg.de/)
+Die Stadt Lugano ist die wirtschaftliche Hauptstadt der Südschweiz und hat eine neue Partnerschaft mit dem Stablecoin-Anbieter Tether (USDT). Die Stadt will Kryptowährungen für Steuerzahlungen verwenden [(7)](https://de.cointelegraph.com/news/swiss-city-of-lugano-to-pay-taxes-in-crypto-via-tether-partnership). Bamberg sollte sofort in diesen Markt einsteigen. Die Bundesregierung bietet Bamberg die Möglichkeit, den finanziellen Wohlstand zu beschleunigen und einen neuen Fintech-Markt / -Sektor aufzubauen. Bamberg hat jetzt die Möglichkeit, finanzielle Unabhängigkeit aufzubauen, und sollte jetzt dazu übergehen, sein Smart-City-Projekt weiter zu integrieren. [(8)](https://smartcity.bamberg.de/)
 
 ### **REFERENZ**
 
@@ -77,13 +77,15 @@ Die Stadt Lugano ist die wirtschaftliche Hauptstadt der Südschweiz und hat eine
 
 [(3)](https://www.stadtwerke-bamberg.de/energie/oekostrom/erneuerbar-und-effizient) Energieerzeugung vor den Toren Bambergs  – <https://www.stadtwerke-bamberg.de/energie/oekostrom/erneuerbar-und-effizient>
 
-[(4)](http://squ.re/BCEI-whitepaper) Bitcoin is Key to an Abundant, Clean  Energy Future – <http://squ.re/BCEI-whitepaper>
+[(4)](https://www.whitehouse.gov/wp-content/uploads/2022/09/09-2022-Crypto-Assets-and-Climate-Report.pdf) Climate and Energy Implications of Crypto-Assets in the United States - https://www.whitehouse.gov/wp-content/uploads/2022/09/09-2022-Crypto-Assets-and-Climate-Report.pdf
 
-[(5)](https://youtu.be/2sG4UWaP920) Rio de Janeiro is the Newest Bitcoin City – <https://youtu.be/2sG4UWaP920>
+[(5)](http://squ.re/BCEI-whitepaper) Bitcoin is Key to an Abundant, Clean  Energy Future – <http://squ.re/BCEI-whitepaper>
 
-[(6)](https://de.cointelegraph.com/news/swiss-city-of-lugano-to-pay-taxes-in-crypto-via-tether-partnership) Schweizer Stadt Lugano: Tether-Partnerschaft für Steuerzahlungen in Krypto – <https://de.cointelegraph.com/news/swiss-city-of-lugano-to-pay-taxes-in-crypto-via-tether-partnership>
+[(6)](https://youtu.be/2sG4UWaP920) Rio de Janeiro is the Newest Bitcoin City – <https://youtu.be/2sG4UWaP920>
 
-[(7)](https://smartcity.bamberg.de/) Bamberg Smart City Programm – <https://smartcity.bamberg.de/>
+[(7)](https://de.cointelegraph.com/news/swiss-city-of-lugano-to-pay-taxes-in-crypto-via-tether-partnership) Schweizer Stadt Lugano: Tether-Partnerschaft für Steuerzahlungen in Krypto – <https://de.cointelegraph.com/news/swiss-city-of-lugano-to-pay-taxes-in-crypto-via-tether-partnership>
+
+[(8)](https://smartcity.bamberg.de/) Bamberg Smart City Programm – <https://smartcity.bamberg.de/>
 
 ### **IMAGE**
 
