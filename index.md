@@ -77,7 +77,7 @@ Die Stadt Lugano ist die wirtschaftliche Hauptstadt der Südschweiz und hat eine
 
 [(3)](https://www.stadtwerke-bamberg.de/energie/oekostrom/erneuerbar-und-effizient) Energieerzeugung vor den Toren Bambergs  – <https://www.stadtwerke-bamberg.de/energie/oekostrom/erneuerbar-und-effizient>
 
-[(4)](https://www.whitehouse.gov/wp-content/uploads/2022/09/09-2022-Crypto-Assets-and-Climate-Report.pdf) Climate and Energy Implications of Crypto-Assets in the United States - https://www.whitehouse.gov/wp-content/uploads/2022/09/09-2022-Crypto-Assets-and-Climate-Report.pdf
+[(4)](https://www.whitehouse.gov/wp-content/uploads/2022/09/09-2022-Crypto-Assets-and-Climate-Report.pdf) Climate and Energy Implications of Crypto-Assets in the United States - <https://www.whitehouse.gov/wp-content/uploads/2022/09/09-2022-Crypto-Assets-and-Climate-Report.pdf>
 
 [(5)](http://squ.re/BCEI-whitepaper) Bitcoin is Key to an Abundant, Clean  Energy Future – <http://squ.re/BCEI-whitepaper>
 
