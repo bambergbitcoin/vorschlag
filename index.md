@@ -12,6 +12,8 @@ Die Climate Policy Initiative ist stark unterfinanziert. Die Energiekrise von 20
 
 <center><img src="https://paste.opensuse.org/view/raw/30435158"></center>
 
+<center><img src="https://www.imf.org/Assets/IMF/images/fd/quote.png"></center>
+
 Wie die Wirtschaften der Vergangenheit, die die Nutzung von Mühlen und den Transport des Werts von Holz (Ressourcen) durch die Flüsse beinhalteten, kann eine neue Wirtschaft für Oberfranken mit erneuerbarer Energie geschmiedet werden, die die kinetische Energie der Flüsse in gespeicherte Werte und Einsparungen für die Stadt umwandelt . Diese Mittel können dann als Einnahmequelle und Wertaufbewahrungsmittel für Bamberg genutzt werden.
 
 ### **VERMEIDUNG VON EMISSIONEN DURCH ABFLAKELN VON GAS**
