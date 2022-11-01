@@ -8,6 +8,8 @@ Viele internationale Städte befinden sich an einem entscheidenden Punkt in der 
 
 ### **EINLEITUNG**
 
+Die Climate Policy Initiative ist stark unterfinanziert. Die Energiekrise von 2022 lässt Nationen um Energie konkurrieren, während der Geldfluss schrumpft. Der Internationale Währungsfonds hat kürzlich erklärt, dass die Energieversorgung stärker dezentralisiert werden muss, und ermutigt zu der Aussage [„Wenn wir Bitcoin nicht aus der Existenz regulieren können, dann sollte das Ziel sein, es in Richtung erneuerbarer Quellen zu lenken.“](https://www.imf.org/en/Publications/fandd/issues/2022/09/Point-of-View-Defi-Tradfi-must-work-together-Michael-Casey) Der Zweck dieser Seite ist es, die Bamberger Gemeinde und ihre Führer zu ermutigen, diese Diskussion zu führen. Städte brauchen lokale Wirtschaften, um zu gedeihen und über Energieressourcen zu verfügen, die zu einem dezentralisierten Stromnetz beitragen können. Die sekundären und dritten Effekte werden den Einfluss der Stadt erhöhen, die Energiestabilität durch erneuerbare Energien unterstützen und dazu beitragen, eine fortschrittliche lokale Wirtschaft zu finanzieren.
+
 Wie die Wirtschaften der Vergangenheit, die die Nutzung von Mühlen und den Transport des Werts von Holz (Ressourcen) durch die Flüsse beinhalteten, kann eine neue Wirtschaft für Oberfranken mit erneuerbarer Energie geschmiedet werden, die die kinetische Energie der Flüsse in gespeicherte Werte und Einsparungen für die Stadt umwandelt . Diese Mittel können dann als Einnahmequelle und Wertaufbewahrungsmittel für Bamberg genutzt werden.
 
 ### **VERMEIDUNG VON EMISSIONEN DURCH ABFLAKELN VON GAS**
