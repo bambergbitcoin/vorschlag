@@ -4,6 +4,13 @@ Vorschläge zum Bitcoin-Mining in der Stadt Bamberg aus Energie aus Flüssen.
 ## Deustch
 Der Zweck dieser Seite ist es, sich für eine bessere Zukunft der Stadt Bamberg einzusetzen. Der Vorschlag hebt die Gründe hervor, warum die Stadt vom Bitcoin-Mining durch die Nutzung und Investition in erneuerbare Energien profitieren kann. Dieses Dokument ist eine Gemeinschaftsarbeit, und Personen, die teilnehmen möchten, werden ermutigt, Feedback in Kommentaren zu geben und Pull-Requests einzureichen, um den Inhalt zu erweitern und zu verbessern. Da ich kein deutscher Muttersprachler bin (Englisch ist meine Muttersprache), müssen einige Absätze wahrscheinlich besser formuliert und/oder übersetzt werden. Ich versuche nur mein Bestes, um zu helfen und eine Diskussion in Gang zu bringen, von der ich denke, dass sie dazu beitragen wird, Bamberg zu verbessern. Jede Verbesserung des Textes wird sehr geschätzt.
 
+### Artikel an Medien übermittelt
+Folgendes wurde am 1. Juli 2023 an Bild, DW, Nürnberger Zeitung, Infranken.de und Fränkischer Tag übermittelt. Nach vorheriger Kontaktaufnahme mit den Medien und keinem Ergebnis wurde Folgendes gesendet, um noch einmal auf diesen wichtigen Vorschlag aufmerksam zu machen zeitbegrenzt. Vorschläge wurden der Stadt im Jahr 2022 und am 26. Januar 2023 übermittelt. Die Stadt sagte, sie prüfe den Vorschlag, es habe jedoch keine Folgemaßnahmen oder Diskussionen über den Vorschlag gegeben.
+
+Ich habe begonnen, einen Blogbeitrag zu verschiedenen Aspekten des Vorschlags zu schreiben. Sehen Sie sich diese unter https://medium.com/@douglas.demaio an
+
+Eine weitere Website finden Sie unter https://bamberg-flow.webflow.io/
+
 ## English
 The purpose of this page is to advocate for a better future for the city of Bamberg. The proposal highlights the reasons for why the city can benefit from mining bitcoin through the use and investment into renewable energies. This document is a collaborative effort and people who want to participate are encouraged to provide feedback in comments and to submit pull requests to enhance and improve the content. Since I am not a native German speaker (English is my native language), some paragraphs will likely need better wordng and/or translations. I'm just trying my best to help and bring forth a discussion that I think will help improve Bamberg. Any improvements to the text are highly appreciated.
 
@@ -11,16 +18,6 @@ The purpose of this page is to advocate for a better future for the city of Bamb
 ### Article Submitted to Media
 The following as was submitted to Bild, DW, Nuremberg Zeitung, Infranken.de and Fraenkischer Tag on July 1, 2023. After previously contacting the media and having no results, the following was sent to once again raise attention to this important proposal that is time limited. Proposals were sent to the city in 2022 and on January 26, 2023. The city said they were looking into the proposal, but there has been no follow up or discussion about the proposal.  
 
-Eine Chance für Bamberg: Stärkung der Wirtschaft und erneuerbare Energien
+I've started writing a blog touch on different aspects of the proposal. View these at https://medium.com/@douglas.demaio
 
-Bamberg besitzt eine strategisch günstige Lage an Flussquellen wie der Regnitz, der Itz und dem Main. Durch gezielte Investitionen in die Infrastruktur können wir die kinetische Energie dieser Flüsse nutzen, um Strom zu erzeugen und Wohlstand für unsere Stadt zu schaffen. Unternehmen wie Turbulent entwickeln Whirlpool-Turbinen, die an Flüssen wie der Regnitz installiert werden können, um kontinuierlich erneuerbare Energie zu liefern und den Bedarf an Strom und Wirtschaftswachstum in Bamberg zu unterstützen.
-
-Um Bamberg zu einer Stadt mit nachhaltiger Energieversorgung und einer blühenden lokalen Wirtschaft zu machen, benötigen wir finanzielle Unterstützung. Bitcoin mag umstritten sein, aber es ist ein wachsender Vermögenswert, der wie Anleihen genutzt werden kann, um das Wirtschaftswachstum und erneuerbare Energiequellen für unsere Stadt zu finanzieren. Bitcoin-Mining hat das Potenzial, Bamberg zu einer Vorreiterstadt in der Nutzung erneuerbarer Energien und der Schaffung einer neuen Wirtschaft zu machen. Es ist an der Zeit, jetzt die Infrastruktur aufzubauen, um unsere Region zu einer globalen Wirtschaftsmacht zu entwickeln. In einer sich verändernden Weltwirtschaft konkurrieren Städte um Talente, Arbeitsplätze, Geld und Energie. Bamberg kann seine Relevanz bewahren und von den Chancen eines First-Mover-Vorteils profitieren. Ein Vorschlag, der der Stadt vorgelegt wurde, zeigt einen Plan auf, wie Bamberg seine einzigartigen Energieressourcen zum Bitcoin-Mining nutzen und ein nachhaltiges Stromnetz sowie eine zusätzliche Wirtschaft für die Stadt schaffen kann. https://bambergbitcoin.github.io/vorschlag/
-
-Bitcoin-Mining kann wie ein zweites Stromnetz aufgebaut werden und kommt den Bewohnern entlang der Wasserwege Frankens und der Oberpfalz zugute. Kleine Wasserkraftwerke entlang von Flüssen und Bächen können Bitcoin-Mining und Wasserkraft kombinieren. Dieses flexible elektrische System ermöglicht eine schnelle Reaktion auf Preis-, Energie- und Zuverlässigkeitssignale. Miner können wie Zellen ein- und ausgeschaltet werden, um das Stromnetz zu entlasten und den Bewohnern zusätzliche Kosten zu ersparen. Durch den Einsatz von Bitcoin-Minern, die sich schnell ein- und ausschalten lassen, können Stromausfälle vermieden werden, die in den letzten Jahren aufgrund von Überkapazitäten im Stromnetz in Bamberg aufgetreten sind.
-
-Beim Bitcoin-Mining können verschiedene Rechenformen eingesetzt werden, die mit erneuerbarer Energie betrieben werden können. Die Entscheidung für erneuerbare Energien würde Bamberg zu einer umweltbewussten Stadt machen und den künftigen Generationen einen schnelleren Wohlstand bieten, da sie unweigerlich in einer Bitcoin-Wirtschaft leben werden.
-
-Städte wie Lugano in der Schweiz haben bereits erkannt, dass Bitcoin-Mining finanzielle Chancen bietet. Bamberg sollte diesem Beispiel folgen und zum technologischen Vorreiter werden, indem wir regionale erneuerbare Energien vernetzen.
-
-Die Zeit drängt, da sich das Zeitfenster für diesen First-Mover-Vorteil in den nächsten zehn Jahren schließt. Daher ist es entscheidend, dass Sie sich jetzt an Ihren Bürgermeister wenden, um die Notwendigkeit der Annahme und Umsetzung des städtischen Vorschlags zum Ausdruck zu bringen.
+Another website is at https://bamberg-flow.webflow.io/
